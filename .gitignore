@@ -3,3 +3,7 @@ configure
 install-sh
 missing
 ylwrap
+.deps
+*.o
+*.lo
+.libs
